@@ -5,4 +5,4 @@ This Text is used to record the project procedure
 
 2023,08,31 
 
-SQ65A 连接串口得到波特率是115200
+SQ65A  the baud rate for connecting Cluster port is 115200
